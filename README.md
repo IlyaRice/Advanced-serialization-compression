@@ -22,6 +22,11 @@ The task involves managing an array where the order of elements does not matter 
     python main.py
     ```
 
+3. Alternatively, you can run the `main.ipynb` Jupyter Notebook:
+    ```bash
+    jupyter notebook main.ipynb
+    ```
+
 ## Test Output
 
 Below are the results of several tests demonstrating the serialization and compression algorithms.
